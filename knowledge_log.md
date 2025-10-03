@@ -8,4 +8,4 @@
 
 4. Setting up of dev environment.
 
-5. 
+5. Getting started with APi.
