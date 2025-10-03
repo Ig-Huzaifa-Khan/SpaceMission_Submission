@@ -1,1 +1,7 @@
-Learning goals 
+Learning goals for backend development.
+
+1. To master the git and github.
+
+2. To know how to implement this in my projects and use github commands to change and update in repositories.
+
+3. To master api mongodb etc.
